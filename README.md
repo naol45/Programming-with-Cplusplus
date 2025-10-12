@@ -1,4 +1,4 @@
-# Programming-with-C-
+# Programming-with-C++
 All C++ projects
 Projects Overview 📂
 Here is a summary of the projects you can find in this repository. To run one, you'll need its Folder Name for the instructions in the next section.
