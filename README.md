@@ -13,8 +13,8 @@ First, get a local copy of this repository on your machine and navigate into it.
 
 Bash
 
-git clone https://github.com/naol45/Programming-with-C-.git
-cd Programming-with-C-
+git clone https://github.com/naol45/Programming-with-Cplusplus.git
+cd Programming-with-Cplusplus
 Step 2: Navigate to a Project Folder
 Choose a project from the table and use its Folder Name to go into that directory.
 
