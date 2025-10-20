@@ -1,0 +1,4 @@
+wood 50
+stone 30
+iron 10
+apple 20

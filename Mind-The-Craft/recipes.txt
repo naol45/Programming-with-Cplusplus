@@ -1,0 +1,10 @@
+pickaxe
+wood 2
+stone 1
+
+sword
+iron 3
+wood 1
+
+cooked_apple
+apple 1

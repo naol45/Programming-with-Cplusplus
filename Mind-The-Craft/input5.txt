@@ -1,0 +1,12 @@
+1
+iron
+y
+iron
+y
+iron
+y
+wood
+n
+2
+sword
+4

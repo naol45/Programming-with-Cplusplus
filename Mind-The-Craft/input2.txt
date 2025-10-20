@@ -1,0 +1,8 @@
+1
+apple
+n
+2
+cooked_apple
+3
+cooked_apple
+4

@@ -1,0 +1,7 @@
+1
+gold
+wood
+n
+2
+sword
+4

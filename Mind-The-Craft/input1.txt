@@ -1,0 +1,6 @@
+1
+wood
+y
+stone
+n
+4

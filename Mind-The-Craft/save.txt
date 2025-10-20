@@ -1,0 +1,8 @@
+health 85
+wood 1
+stone 0
+iron 1
+apple 1
+pickaxe 0
+sword 0
+cooked_apple 0

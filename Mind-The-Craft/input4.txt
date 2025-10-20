@@ -1,0 +1,8 @@
+1
+wood
+y
+iron
+y
+apple
+n
+4

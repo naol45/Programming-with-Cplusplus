@@ -1,0 +1,17 @@
+1
+wood
+y
+wood
+y
+stone
+n
+2
+pickaxe
+1
+apple
+n
+2
+cooked_apple
+3
+cooked_apple
+4
