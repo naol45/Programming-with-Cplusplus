@@ -1,0 +1,123 @@
+Start the game!
+Turn 1: Red Turn
+[22m  ABCDEFGH
+ +========+
+8|[100m[31m[1m^[107m [100m[31m[1mC[107m[31m[1m+[100m[31m[1m+[107m [100m [107m[31m[1m^[49m[37m[22m|
+7|[107m[31m[1m/[100m [107m [100m [107m [100m [107m [100m[31m[1m/[49m[37m[22m|
+6|[100m [107m [100m [107m [100m [107m [100m [107m [49m[37m[22m|
+5|[107m [100m [107m [100m [107m [100m [107m [100m [49m[37m[22m|
+4|[100m [107m [100m [107m [100m [107m [100m [107m [49m[37m[22m|
+3|[107m [100m [107m [100m [107m [100m [107m [100m [49m[37m[22m|
+2|[100m[96m[1m/[107m [100m [107m [100m [107m [100m [107m[96m[1m/[49m[37m[22m|
+1|[107m[96m[1m^[100m [107m[96m[1mC[100m[96m[1m+[107m[96m[1m+[100m [107m [100m[96m[1m^[49m[37m[22m|
+[37m +========+
+Please enter the coordinate of the piece to move (column, row)
+Error, please enter a char between A and K, inclusive
+Please enter the coordinate to move the piece to
+That piece cannot move in that way
+Please enter the coordinate to move the piece to
+Turn 2: Blue Turn
+[22m  ABCDEFGH
+ +========+
+8|[100m [107m[31m[1m^[100m[31m[1mC[107m[31m[1m+[100m[31m[1m+[107m [100m [107m[31m[1m^[49m[37m[22m|
+7|[107m[31m[1m/[100m [107m [100m [107m [100m [107m [100m[31m[1m/[49m[37m[22m|
+6|[100m [107m [100m [107m [100m [107m [100m [107m [49m[37m[22m|
+5|[107m [100m [107m [100m [107m [100m [107m [100m [49m[37m[22m|
+4|[100m [107m [100m [107m [100m [107m [100m [107m [49m[37m[22m|
+3|[107m [100m [107m [100m [107m [100m [107m [100m [49m[37m[22m|
+2|[100m[96m[1m/[107m [100m [107m [100m [107m [100m [107m[96m[1m/[49m[37m[22m|
+1|[107m[96m[1m^[100m [107m[96m[1mC[100m[96m[1m+[107m[96m[1m+[100m [107m [100m[96m[1m^[49m[37m[22m|
+[37m +========+
+Please enter the coordinate of the piece to move (column, row)
+Please enter the coordinate to move the piece to
+Turn 3: Red Turn
+[22m  ABCDEFGH
+ +========+
+8|[100m [107m[96m[1m/[100m[31m[1mC[107m[31m[1m+[100m[31m[1m+[107m [100m [107m[31m[1m^[49m[37m[22m|
+7|[107m[31m[1m/[100m [107m [100m [107m [100m [107m [100m[31m[1m/[49m[37m[22m|
+6|[100m [107m [100m [107m [100m [107m [100m [107m [49m[37m[22m|
+5|[107m [100m [107m [100m [107m [100m [107m [100m [49m[37m[22m|
+4|[100m [107m [100m [107m [100m [107m [100m [107m [49m[37m[22m|
+3|[107m [100m [107m [100m [107m [100m [107m [100m [49m[37m[22m|
+2|[100m[96m[1m/[107m [100m [107m [100m [107m [100m [107m [49m[37m[22m|
+1|[107m[96m[1m^[100m [107m[96m[1mC[100m[96m[1m+[107m[96m[1m+[100m [107m [100m[96m[1m^[49m[37m[22m|
+[37m +========+
+Please enter the coordinate of the piece to move (column, row)
+Please enter the coordinate to move the piece to
+That piece cannot move in that way
+Please enter the coordinate to move the piece to
+Turn 4: Blue Turn
+[22m  ABCDEFGH
+ +========+
+8|[100m [107m[31m[1mC[100m [107m[31m[1m+[100m[31m[1m+[107m [100m [107m[31m[1m^[49m[37m[22m|
+7|[107m[31m[1m/[100m [107m [100m [107m [100m [107m [100m[31m[1m/[49m[37m[22m|
+6|[100m [107m [100m [107m [100m [107m [100m [107m [49m[37m[22m|
+5|[107m [100m [107m [100m [107m [100m [107m [100m [49m[37m[22m|
+4|[100m [107m [100m [107m [100m [107m [100m [107m [49m[37m[22m|
+3|[107m [100m [107m [100m [107m [100m [107m [100m [49m[37m[22m|
+2|[100m[96m[1m/[107m [100m [107m [100m [107m [100m [107m [49m[37m[22m|
+1|[107m[96m[1m^[100m [107m[96m[1mC[100m[96m[1m+[107m[96m[1m+[100m [107m [100m[96m[1m^[49m[37m[22m|
+[37m +========+
+Please enter the coordinate of the piece to move (column, row)
+Please enter the coordinate to move the piece to
+Turn 5: Red Turn
+[22m  ABCDEFGH
+ +========+
+8|[100m [107m[31m[1mC[100m [107m[31m[1m+[100m[31m[1m+[107m [100m [107m[31m[1m^[49m[37m[22m|
+7|[107m[31m[1m/[100m [107m [100m [107m [100m [107m [100m[31m[1m/[49m[37m[22m|
+6|[100m [107m [100m [107m [100m [107m [100m [107m [49m[37m[22m|
+5|[107m [100m [107m [100m[96m[1m/[107m [100m [107m [100m [49m[37m[22m|
+4|[100m [107m [100m [107m [100m [107m [100m [107m [49m[37m[22m|
+3|[107m [100m [107m [100m [107m [100m [107m [100m [49m[37m[22m|
+2|[100m [107m [100m [107m [100m [107m [100m [107m [49m[37m[22m|
+1|[107m[96m[1m^[100m [107m[96m[1mC[100m[96m[1m+[107m[96m[1m+[100m [107m [100m[96m[1m^[49m[37m[22m|
+[37m +========+
+Please enter the coordinate of the piece to move (column, row)
+Please enter the coordinate to move the piece to
+That piece cannot move in that way
+Please enter the coordinate to move the piece to
+Turn 6: Blue Turn
+[22m  ABCDEFGH
+ +========+
+8|[100m [107m[31m[1mC[100m [107m[31m[1m+[100m[31m[1m+[107m [100m [107m[31m[1m^[49m[37m[22m|
+7|[107m [100m [107m [100m [107m [100m [107m [100m[31m[1m/[49m[37m[22m|
+6|[100m [107m [100m [107m [100m [107m [100m [107m [49m[37m[22m|
+5|[107m [100m [107m [100m[96m[1m/[107m [100m [107m [100m [49m[37m[22m|
+4|[100m [107m [100m [107m [100m [107m [100m [107m [49m[37m[22m|
+3|[107m [100m [107m [100m [107m [100m [107m [100m [49m[37m[22m|
+2|[100m [107m [100m [107m [100m [107m [100m [107m [49m[37m[22m|
+1|[107m[96m[1m^[100m [107m[96m[1mC[100m[96m[1m+[107m[96m[1m+[100m [107m[31m[1m/[100m[96m[1m^[49m[37m[22m|
+[37m +========+
+Please enter the coordinate of the piece to move (column, row)
+Please enter the coordinate to move the piece to
+Turn 7: Red Turn
+[22m  ABCDEFGH
+ +========+
+8|[100m[96m[1m^[107m[31m[1mC[100m [107m[31m[1m+[100m[31m[1m+[107m [100m [107m[31m[1m^[49m[37m[22m|
+7|[107m [100m [107m [100m [107m [100m [107m [100m[31m[1m/[49m[37m[22m|
+6|[100m [107m [100m [107m [100m [107m [100m [107m [49m[37m[22m|
+5|[107m [100m [107m [100m[96m[1m/[107m [100m [107m [100m [49m[37m[22m|
+4|[100m [107m [100m [107m [100m [107m [100m [107m [49m[37m[22m|
+3|[107m [100m [107m [100m [107m [100m [107m [100m [49m[37m[22m|
+2|[100m [107m [100m [107m [100m [107m [100m [107m [49m[37m[22m|
+1|[107m [100m [107m[96m[1mC[100m[96m[1m+[107m[96m[1m+[100m [107m[31m[1m/[100m[96m[1m^[49m[37m[22m|
+[37m +========+
+Please enter the coordinate of the piece to move (column, row)
+There is no piece at that coordinate
+Please enter the coordinate of the piece to move (column, row)
+Please enter the coordinate to move the piece to
+Turn 8: Blue Turn
+[22m  ABCDEFGH
+ +========+
+8|[100m[31m[1mC[107m [100m [107m[31m[1m+[100m[31m[1m+[107m [100m [107m[31m[1m^[49m[37m[22m|
+7|[107m [100m [107m [100m [107m [100m [107m [100m[31m[1m/[49m[37m[22m|
+6|[100m [107m [100m [107m [100m [107m [100m [107m [49m[37m[22m|
+5|[107m [100m [107m [100m[96m[1m/[107m [100m [107m [100m [49m[37m[22m|
+4|[100m [107m [100m [107m [100m [107m [100m [107m [49m[37m[22m|
+3|[107m [100m [107m [100m [107m [100m [107m [100m [49m[37m[22m|
+2|[100m [107m [100m [107m [100m [107m [100m [107m [49m[37m[22m|
+1|[107m [100m [107m[96m[1mC[100m[96m[1m+[107m[96m[1m+[100m [107m[31m[1m/[100m[96m[1m^[49m[37m[22m|
+[37m +========+
+Please enter the coordinate of the piece to move (column, row)
+Please enter the coordinate to move the piece to
+Done! Finished in 8 turns
